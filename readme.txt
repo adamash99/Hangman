@@ -1,3 +1,1 @@
-iOS Dev @ Berkeley FA19 // Proj 1
-
-Instructions for this project can be found here: http://iosdev.berkeley.edu/fa19/proj/proj1/
+iOS App to play a game of hangman. Created by Adam Ash in October 2019.
