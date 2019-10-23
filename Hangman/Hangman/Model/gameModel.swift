@@ -9,7 +9,6 @@
 import Foundation
 
 class gameModel {
-    
     var currentWord: String
     var guessedLetters : [Character]
     var guessesLeft : Int

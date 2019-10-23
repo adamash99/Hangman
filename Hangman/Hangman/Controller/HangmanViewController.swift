@@ -29,7 +29,6 @@ class HangmanViewController: UIViewController {
         textField.becomeFirstResponder()
     }
 
-
     @IBAction func guessLetter(_ sender: Any) {
         let input: String = textField!.text!
         
